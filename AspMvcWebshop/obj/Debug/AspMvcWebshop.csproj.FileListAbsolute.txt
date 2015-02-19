@@ -1,0 +1,127 @@
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\AspMvcWebshop.dll.config
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\AspMvcWebshop.dll
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\AspMvcWebshop.pdb
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\Microsoft.Web.Infrastructure.dll
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\Newtonsoft.Json.dll
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Helpers.dll
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Mvc.dll
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Razor.dll
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.WebPages.Deployment.dll
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.WebPages.dll
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.WebPages.Razor.dll
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\Newtonsoft.Json.xml
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Helpers.xml
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Mvc.xml
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Razor.xml
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.WebPages.xml
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.WebPages.Deployment.xml
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.WebPages.Razor.xml
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\obj\Debug\AspMvcWebshop.dll
+c:\users\erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\obj\Debug\AspMvcWebshop.pdb
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\EntityFramework.dll
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\EntityFramework.SqlServer.dll
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\EntityFramework.xml
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\EntityFramework.SqlServer.xml
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\Microsoft.Web.Helpers.dll
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Net.Http.Formatting.dll
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Http.dll
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Http.WebHost.dll
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\WebMatrix.Data.dll
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\WebMatrix.WebData.dll
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Net.Http.Formatting.xml
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Http.xml
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Http.WebHost.xml
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\WebMatrix.Data.xml
+C:\Users\Erklat\documents\visual studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\WebMatrix.WebData.xml
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.Core.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Net.Http.Extensions.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Net.Http.Primitives.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\Mono.Math.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.Core.xml
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Net.Http.Extensions.xml
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Net.Http.Primitives.xml
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\Mono.Math.xml
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\obj\Debug\AspMvcWebshop.csproj.App.config
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\Antlr3.Runtime.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Optimization.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\WebGrease.dll
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\Antlr3.Runtime.pdb
+C:\Users\Erklat\Documents\Visual Studio 2013\Projects\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Optimization.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\AspMvcWebshop.dll.config
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\AspMvcWebshop.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\AspMvcWebshop.pdb
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\Antlr3.Runtime.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.AspNet.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.Core.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OAuth.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OpenId.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\EntityFramework.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\EntityFramework.SqlServer.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\Microsoft.Web.Helpers.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\Microsoft.Web.Infrastructure.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\Newtonsoft.Json.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Net.Http.Extensions.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Net.Http.Formatting.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Net.Http.Primitives.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Helpers.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Http.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Http.WebHost.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Mvc.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Optimization.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Razor.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.WebPages.Deployment.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.WebPages.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.WebPages.Razor.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\WebGrease.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\WebMatrix.Data.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\WebMatrix.WebData.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\Org.Mentalis.Security.Cryptography.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\Mono.Math.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\Antlr3.Runtime.pdb
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.AspNet.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.Core.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OAuth.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OpenId.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\EntityFramework.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\EntityFramework.SqlServer.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\Newtonsoft.Json.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Net.Http.Extensions.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Net.Http.Formatting.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Net.Http.Primitives.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Helpers.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Http.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Http.WebHost.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Mvc.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Optimization.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.Razor.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.WebPages.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.WebPages.Deployment.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\System.Web.WebPages.Razor.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\WebMatrix.Data.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\WebMatrix.WebData.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\Org.Mentalis.Security.Cryptography.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\bin\Mono.Math.xml
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\obj\Debug\AspMvcWebshop.csproj.App.config
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\obj\Debug\AspMvcWebshop.csprojResolveAssemblyReference.cache
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\obj\Debug\AspMvcWebshop.dll
+c:\users\Erklat\Desktop\PZI_Maticevic\AspMvcWebshop\AspMvcWebshop\obj\Debug\AspMvcWebshop.pdb

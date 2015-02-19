@@ -1,0 +1,57 @@
+﻿@model List<AspMvcWebshop.Models.Product>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Index";
+}
+
+<section id="promo">
+    <div id="promo-details">
+        <h1>Today's deals</h1>
+        <p>
+            Check this section<br>
+            products at a discounted price.
+        </p>
+        <a href="" class="default-btn">Shop Now</a>
+    </div><!-- end promo details -->
+    <img src="content/img/promo.png" alt="Promotional ad" />
+</section><!-- end promo -->
+
+<section id="main-content">
+    <h2>Featured</h2><hr />
+    <div id="products">
+        @foreach (var product in Model) { 
+        <div class="product">
+            <a href="@Url.Action("Details", "Store",
+                    new { id = product.productId })">
+            <img src="content/img/product.gif" alt="@product.Name" class="feature" /></a>
+            <h3><a href="@Url.Action("Details", "Store",
+                    new { id = product.productId })">@product.Name</a></h3>
+
+            <p>
+                This is a short description.his is a short description.
+                his is a short description.his is a short description.
+            </p>
+            <h5>Availability: <span class="instock">In Stock</span></h5>
+
+            <p>
+                <a href="#" class="cart-btn">
+                    <span class="price">$499,99</span>
+                    <img src="content/img/white-cart.gif" alt="Add to Cart" />
+                    ADD TO CART
+                </a>
+            </p>
+
+            <p class="wish">
+                <a href="">
+                    <img src="content/img/wish.gif" alt="Add to Wishlist" />
+                    Add to Wishlist
+                </a>
+            </p>
+        </div>
+        }
+
+    </div><!-- end products -->
+</section><!-- end main content -->
+
+<hr />
